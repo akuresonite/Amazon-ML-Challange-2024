@@ -13,6 +13,9 @@ Ashish Kumar Uchadiya
 - Team: TAMS
 - contributers: Shivam Negi, Mayur Dhanawade, Tarun Bhist
 
+![Alt text](https://github.com/akuresonite/Amazon-ML-Challange-2024/blob/main/Rank/amazon_ml_rank.jpg)
+
+
 
 ## Feature Extraction from Images
 
