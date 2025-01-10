@@ -10,6 +10,9 @@ Product Entity Extraction Using Zero-Shot Prompting
 
 Ashish Kumar Uchadiya
 
+- Team: TAMS
+- contributers: Shivam Negi, Mayur Dhanawade, Tarun Bhist
+
 
 ## Feature Extraction from Images
 
