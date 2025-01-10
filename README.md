@@ -15,6 +15,7 @@ Ashish Kumar Uchadiya
 
 ![Alt text](https://github.com/akuresonite/Amazon-ML-Challange-2024/blob/main/Rank/amazon_ml_rank.jpg)
 
+There were around 1000 teams.
 
 
 ## Feature Extraction from Images
